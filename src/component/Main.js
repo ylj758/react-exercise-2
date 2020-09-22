@@ -3,6 +3,7 @@ import React, {Component} from 'react'
 
 class Main extends Component {
   render() {
+    const category = {}
     return (
       <main>
         <h1 className="iphoneTitle">iPhone</h1>
